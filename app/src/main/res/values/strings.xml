@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Устный счет</string>
+    <string name="check">Проверить</string>
+    <string name="next">Следующая</string>
+    <string name="settings">Настройки</string>
+    <string name="stats">Статистика</string>
+    <string name="enter_answer">Ваш ответ</string>
+    <string name="difficulty_label">Выберите сложность:</string>
+    <string name="difficulty_easy">Легкий</string>
+    <string name="difficulty_medium">Средний</string>
+    <string name="difficulty_hard">Сложный</string>
+    <string name="tasks_solved">Всего задач решено:</string>
+    <string name="tasks_correct">Верно решено:</string>
+    <string name="avg_time">Среднее время решения верных задач (мс):</string>
+    <string name="history_title">История</string>
+</resources>
